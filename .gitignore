@@ -1,0 +1,18 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+#設定ファイル
+assets/
+
+# IntelliJ使ってる人のために
+.idea/
+
+# Vscode使っている人のために
+.vscode/
+
+# mac os
+.DS_Store
